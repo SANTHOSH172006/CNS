@@ -74,5 +74,6 @@ void main()
 ```
 
 OUTPUT :-
-![Online C Compiler - online editor - Google Chrome 20-03-2025 09_13_08](https://github.com/user-attachments/assets/5da4837f-d0e1-427e-bea1-64922571e67b)
+![1](https://github.com/user-attachments/assets/9581ba01-dae5-4c6c-bfd8-160a6f7fe88b)
+
 
